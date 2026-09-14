@@ -1,1 +1,2 @@
 MIjn eerste Git repository
+Ik ben git aan het leren
